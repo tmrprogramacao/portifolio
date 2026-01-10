@@ -13,22 +13,22 @@
   box-sizing: border-box;
 }
 :root{
-    --fundo-principal: #fff7f9;
-    --texto: #3a2f32;
+    --fundo-principal: #f6f5fa;
+    --texto: #1f1b2e;
     --texto-inverso: #ffffff;
-    --destaque: #f3a0b3;
-    --destaque-inverso: #f5b8c6;
+    --destaque: #7c3aed;        /* Roxo elegante */
+    --destaque-inverso: #c4b5fd;
     --fundo-card: #ffffff;
-    --borda: #f2dce2;
+    --borda: #e3e1f0;
 }
 body.escuro{
-    --fundo-principal: #1f1418;
-    --texto: #f3e9ec;
-    --texto-inverso: #1f1418;
-    --destaque: #ff6f91;
-    --destaque-inverso: #ff9fb6;
-    --fundo-card: #2a1c21;
-    --borda: #3d2a31;
+    --fundo-principal: #151226;
+    --texto: #e5e3f5;
+    --texto-inverso: #151226;
+    --destaque: #a78bfa;        /* Roxo suave no dark */
+    --destaque-inverso: #c4b5fd;
+    --fundo-card: #1f1b35;
+    --borda: #2d2747;
 }
 body{
   font-family: Verdana, Geneva, Tahoma, sans-serif;
